@@ -29,13 +29,12 @@ I focus on writing clean code, understanding system design basics, and improving
 
 ### **Backend**
 - Node.js, Express.js  
-- PHP (legacy)  
-
+ 
 ### **Databases**
-- MySQL, MongoDB  
+- MySQL, MongoDB, PostgreSQL
 
 ### **Blockchain & Tools**
-- Solidity, Hardhat, Polygon  
+- Solidity, Polygon  
 - MetaMask, Postman, Firebase  
 
 ### **Other Tools**
