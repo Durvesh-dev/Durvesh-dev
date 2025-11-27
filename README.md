@@ -59,14 +59,12 @@ I focus on writing clean code, understanding system design basics, and improving
 - Conducted research on cybersecurity threats and attack vectors.  
 - Performed basic vulnerability assessments and documentation.  
 - Built small security-testing utilities and collaborated with research engineers.  
-:contentReference[oaicite:0]{index=0}
 
 ---
 
 ## 🎓 Education  
 - **B.Tech in Information Technology (Pursuing)** — Vidyalankar Institute of Technology, Mumbai  
 - **Diploma in Computer Engineering** — Vidyalankar Polytechnic, Mumbai  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
