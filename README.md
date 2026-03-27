@@ -69,10 +69,9 @@ I focus on writing clean code, understanding system design basics, and improving
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durvesh-dev&layout=compact&theme=tokyonight" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
