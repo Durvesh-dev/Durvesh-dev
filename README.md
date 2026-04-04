@@ -61,9 +61,13 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight&v=3)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durvesh-dev&layout=compact&theme=tokyonight&v=3)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durvesh-dev&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
+</p>
 
 ---
 
