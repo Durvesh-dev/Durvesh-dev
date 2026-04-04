@@ -97,10 +97,3 @@
   <img src="https://komarev.com/ghpvc/?username=Durvesh-dev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 <p align="center">✨ Thanks for visiting my profile! Feel free to explore my repositories. ✨</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Durvesh-dev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-<p align="center">✨ Thanks for visiting my profile! Feel free to explore my repositories. ✨</p>
