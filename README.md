@@ -82,8 +82,11 @@
 ## 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=1F222E&ring_color=0A66C2" alt="Durvesh's GitHub Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durvesh-dev&layout=compact&theme=tokyonight&bg_color=1F222E" alt="Top Languages" height="190" />
+  
+![Durvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=1F222E&ring_color=0A66C2)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durvesh-dev&layout=compact&theme=tokyonight&bg_color=1F222E)
+
 </div>
 
 <div align="center" style="margin-top: 20px;">
