@@ -22,6 +22,7 @@
 
 - 🔭 I’m currently pursuing my **B.Tech in Information Technology** at Vidyalankar Institute of Technology, Mumbai.
 - 🌱 I’m constantly expanding my skill set in **Web & Mobile Development, Blockchain, and Cybersecurity**.
+- 💼 Previously worked as a **Cyber Security Research Intern** at *Secure Cyber Future Ltd*.
 - 💡 I focus on writing clean, maintainable code, understanding robust system architecture, and shipping real-world projects.
 - ⚡ **Interests:** IoT & Automation, Smart Contracts, System Design, and building scalable MVPs.
 
@@ -61,13 +62,9 @@
 
 ## 📊 GitHub Stats  
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durvesh-dev&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durvesh-dev&layout=compact&theme=tokyonight)
 
 ---
 
