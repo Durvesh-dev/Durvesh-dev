@@ -83,9 +83,9 @@
 
 <div align="center">
   
-![Durvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=1F222E&ring_color=0A66C2)
+<img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight&bg_color=1F222E&ring_color=0A66C2&v=1" alt="Durvesh's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durvesh-dev&layout=compact&theme=tokyonight&bg_color=1F222E)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durvesh-dev&layout=compact&theme=tokyonight&bg_color=1F222E&v=1" alt="Top Languages" />
 
 </div>
 
