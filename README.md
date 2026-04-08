@@ -38,7 +38,7 @@
 * Conducted research on cyber threats & vulnerabilities
 * Built security tools and scripts
 * Performed vulnerability assessments
-* Collaborated with research engineers
+* Collaborated with security engineers
 
 ---
 
@@ -74,18 +74,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=solidity" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durvesh-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
