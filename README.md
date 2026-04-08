@@ -4,10 +4,6 @@
 
 <h3 align="center">🚀 Building Secure & Scalable Systems</h3>
 
----
-
-## 🌐 Connect with Me
-
 <p align="center">
   <a href="mailto:durveshbhadgaonkar19@gmail.com">
     <img src="https://img.shields.io/badge/Email-Durvesh-red?style=for-the-badge&logo=gmail">
@@ -21,13 +17,24 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * 🎓 B.Tech IT Student (Mumbai)
-* 🔐 Cybersecurity Enthusiast
-* ⚡ Full Stack Developer
+* 🔐 Focused on Cybersecurity & Backend Systems
+* ⚡ Building scalable web & mobile applications
 * 🧠 Exploring Blockchain & Smart Contracts
 * 🚀 Open Source Contributor (GSoC Aspirant)
+
+---
+
+## 💼 Experience
+
+**Cyber Security Research Intern — Secure Cyber Future Ltd.**
+
+* Conducted research on cyber threats & attack vectors
+* Performed vulnerability assessments
+* Built internal security testing tools
+* Collaborated with research engineers
 
 ---
 
@@ -35,15 +42,21 @@
 
 ### 👨‍💻 Languages & Frameworks
 
-HTML • CSS • JavaScript • TypeScript • React • Node.js • Express
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express" />
+</p>
 
 ### 🗄️ Databases
 
-MongoDB • MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### ⚙️ Tools & Platforms
 
-Git • GitHub • Linux • Postman • Firebase
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,firebase" />
+</p>
 
 ### 🔐 Cybersecurity Tools
 
@@ -51,11 +64,13 @@ Burp Suite • SQLMap • Google Dorking
 
 ### 🔗 Other
 
-Solidity • Blockchain • Smart Contracts
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity" />
+</p>
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -64,39 +79,21 @@ Solidity • Blockchain • Smart Contracts
 
 ---
 
-## 📈 Contribution Graph (Snake Animation 🐍)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🧠 Interests
 
-* 🔐 Cybersecurity
-* ⚙️ System Design
-* 📱 Mobile Development
-* ⛓️ Blockchain
-* 🤖 Automation
-
----
-
-## 💼 Experience
-
-**Cyber Security Research Intern — Secure Cyber Future Ltd.**
-
-* Research on cyber threats & vulnerabilities
-* Built security tools
-* Worked with research engineers
+* 🔐 Cybersecurity & Ethical Hacking
+* ⚙️ System Design & Backend Architecture
+* 📱 Mobile App Development
+* ⛓️ Blockchain & Web3
+* 🤖 Automation & Problem Solving
 
 ---
 
 ## 🎯 Goals
 
-* 🚀 GSoC 2026
-* 🔥 Become Full Stack + Security Engineer
-* 🌍 Contribute to impactful OSS
+* 🚀 Contribute to GSoC 2026
+* 🔥 Become a Full Stack + Security Engineer
+* 🌍 Build impactful and scalable systems
 
 ---
 
@@ -105,12 +102,6 @@ Solidity • Blockchain • Smart Contracts
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Durvesh-dev&label=Profile%20views&color=blue&style=flat" />
 </p>
-
----
-
-## ⚡ Fun Fact
-
-> I build systems that don’t just work… they scale 🚀
 
 ---
 
