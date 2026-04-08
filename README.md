@@ -1,119 +1,93 @@
-<h1 align="center">Hi 👋, I'm Durvesh Bhadgaonkar</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Cybersecurity Enthusiast | Open Source Contributor</h3>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:durveshbhadgaonkar19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Durvesh-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/durvesh-bhadgaonkar">
-    <img src="https://img.shields.io/badge/LinkedIn-Durvesh-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 B.Tech in Information Technology (Pursuing)  
-- 🔐 Passionate about **Cybersecurity & System Design**  
-- 💻 Building scalable **Web & Mobile Applications**  
-- 🧠 Exploring **Blockchain & Smart Contracts**  
-- ⚡ Love writing clean, maintainable, production-ready code  
-
----
-
-## 🚀 What I'm Currently Doing
-
-- 🔭 Working on **Decentralized Payment System (Blockchain + React Native)**
-- 🌱 Learning **Advanced Backend Architecture & Security**
-- 🤝 Contributing to **Open Source (GSoC Ready 💪)**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### ⚙️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,firebase" />
-</p>
-
-### 🔐 Cybersecurity & Blockchain
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity" />
-</p>
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi, I'm Durvesh Bhadgaonkar 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Durvesh-dev&theme=tokyonight" />
+  Software Engineer • Cybersecurity • Open Source
 </p>
-
----
-
-## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durvesh-dev&layout=compact&theme=tokyonight" />
+  <a href="mailto:durveshbhadgaonkar19@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/durvesh-bhadgaonkar">LinkedIn</a>
 </p>
 
 ---
 
-## 🧠 Interests
+## About
 
-- 🔐 Cybersecurity & Ethical Hacking  
-- ⚙️ System Design & Architecture  
-- 📱 Mobile App Development  
-- ⛓️ Blockchain & Web3  
-- 🤖 Automation & IoT  
+I'm an Information Technology student based in Mumbai, focused on building secure and scalable systems.
+
+* Interested in **Cybersecurity, Backend Development, and System Design**
+* Currently working on a **Decentralized Payment System (Blockchain + React Native)**
+* Exploring **security engineering and distributed systems**
+* Actively contributing to **open source (GSoC track)**
 
 ---
 
-## 💼 Experience
+## Tech Stack
+
+**Languages & Frameworks**
+HTML • CSS • JavaScript • TypeScript • React • Node.js • Express
+
+**Databases**
+MongoDB • MySQL
+
+**Tools**
+Git • GitHub • Linux • Postman • Firebase
+
+**Other**
+Blockchain • Smart Contracts • Security Fundamentals
+
+---
+
+## Experience
 
 **Cyber Security Research Intern — Secure Cyber Future Ltd.**
-- Conducted research on cyber threats & attack vectors  
-- Performed vulnerability assessments  
-- Built small security testing tools  
+
+* Conducted research on cyber threats and attack vectors
+* Performed vulnerability assessments
+* Built small internal security tools
 
 ---
 
-## 🎯 Goals
+## Projects
 
-- 🚀 Crack **GSoC 2026**
-- 🔥 Become a **Full Stack + Security Engineer**
-- 🌍 Contribute to impactful open-source projects  
+**Decentralized Payment System**
+
+* Blockchain-based transaction system with wallet integration
+* Focus on secure and decentralized payments
+
+**Certificate Generator Web App**
+
+* Canva-like editor to create and download certificates
+* Built using HTML, CSS, JavaScript, Node.js
+
+*(Add GitHub repository links here)*
 
 ---
 
-## 👀 Profile Views
+## GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Durvesh-dev&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&hide_border=true" />
 </p>
 
 ---
 
-## ✨ Fun Fact
+## Current Focus
 
-> "I don't just write code, I build systems that scale 🚀"
+* Backend Architecture
+* Security Engineering
+* Open Source Contributions
 
 ---
 
-<p align="center">⭐ From <b>Durvesh Bhadgaonkar</b></p>
+## Goals
+
+* Contribute to **GSoC 2026**
+* Build production-level scalable systems
+* Grow as a full-stack + security engineer
+
+---
+
+<p align="center">
+  <sub>Simple. Clean. Focused.</sub>
+</p>
