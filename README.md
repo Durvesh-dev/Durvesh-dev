@@ -1,23 +1,27 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Durvesh+Bhadgaonkar;Cybersecurity+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Durvesh+Bhadgaonkar;Cybersecurity+Enthusiast+🔐;Full+Stack+Developer+🚀;Open+Source+Contributor+💻" />
 </h1>
 
-<h3 align="center">Building Secure & Scalable Systems</h3>
+<h3 align="center">🚀 Building Secure & Scalable Systems</h3>
 
 ---
 
-## Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:durveshbhadgaonkar19@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/durvesh-bhadgaonkar">LinkedIn</a>
+  <a href="mailto:durveshbhadgaonkar19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Durvesh-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/durvesh-bhadgaonkar">
+    <img src="https://img.shields.io/badge/LinkedIn-Durvesh-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * 🎓 B.Tech IT Student (Mumbai)
 * 🔐 Cybersecurity Enthusiast
@@ -27,40 +31,48 @@
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### 👨‍💻 Languages & Frameworks
 
 HTML • CSS • JavaScript • TypeScript • React • Node.js • Express
 
-### Databases
+### 🗄️ Databases
 
 MongoDB • MySQL
 
-### Tools & Platforms
+### ⚙️ Tools & Platforms
 
 Git • GitHub • Linux • Postman • Firebase
 
-### Cybersecurity Tools
+### 🔐 Cybersecurity Tools
 
-Burp Suite • SQLMap • Google Dorking (Advanced Search Techniques)
+Burp Suite • SQLMap • Google Dorking
 
-### Other
+### 🔗 Other
 
-Blockchain • Smart Contracts • Security Fundamentals
+Solidity • Blockchain • Smart Contracts
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Durvesh-dev&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Durvesh-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Interests
+## 📈 Contribution Graph (Snake Animation 🐍)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🧠 Interests
 
 * 🔐 Cybersecurity
 * ⚙️ System Design
@@ -70,7 +82,7 @@ Blockchain • Smart Contracts • Security Fundamentals
 
 ---
 
-## Experience
+## 💼 Experience
 
 **Cyber Security Research Intern — Secure Cyber Future Ltd.**
 
@@ -80,7 +92,7 @@ Blockchain • Smart Contracts • Security Fundamentals
 
 ---
 
-## Goals
+## 🎯 Goals
 
 * 🚀 GSoC 2026
 * 🔥 Become Full Stack + Security Engineer
@@ -88,11 +100,17 @@ Blockchain • Smart Contracts • Security Fundamentals
 
 ---
 
-## Profile Views
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Durvesh-dev&label=Profile%20views&color=blue&style=flat" />
 </p>
+
+---
+
+## ⚡ Fun Fact
+
+> I build systems that don’t just work… they scale 🚀
 
 ---
 
