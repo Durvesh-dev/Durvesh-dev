@@ -1,111 +1,100 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Durvesh+Bhadgaonkar;Cybersecurity+Enthusiast+🔐;Full+Stack+Developer+🚀;Open+Source+Contributor+💻" />
-</h1>
-
-<h3 align="center">🚀 Building Secure & Scalable Systems</h3>
-
----
-
-## 🌐 Connect with Me
+<h1 align="center">Hi, I'm Durvesh Bhadgaonkar 👋</h1>
 
 <p align="center">
-  <a href="mailto:durveshbhadgaonkar19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Durvesh-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/durvesh-bhadgaonkar">
-    <img src="https://img.shields.io/badge/LinkedIn-Durvesh-blue?style=for-the-badge&logo=linkedin">
-  </a>
+  Software Engineer • Cybersecurity • Open Source
+</p>
+
+<p align="center">
+  <a href="mailto:durveshbhadgaonkar19@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/durvesh-bhadgaonkar">LinkedIn</a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+I'm an Information Technology student based in Mumbai, focused on building secure and scalable systems.
 
-* 🎓 B.Tech IT Student (Mumbai)
-* 🔐 Cybersecurity Enthusiast
-* ⚡ Full Stack Developer
-* 🧠 Exploring Blockchain & Smart Contracts
-* 🚀 Open Source Contributor (GSoC Aspirant)
+* Interested in **Cybersecurity, Backend Development, and System Design**
+* Exploring **security engineering and distributed systems**
+* Actively contributing to **open source (GSoC track)**
 
 ---
 
-## 🚀 What I'm Working On
+## Tech Stack
 
-* 🔭 Decentralized Payment System (Blockchain + React Native)
-* 🌱 Advanced Backend & Security
-* 🤝 Open Source Contributions
+### Languages & Frameworks
 
----
+HTML • CSS • JavaScript • TypeScript • React • Node.js • Express
 
-## 🛠️ Tech Stack
+### Databases
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,linux,firebase,solidity" />
-</p>
+MongoDB • MySQL
 
----
+### Tools & Platforms
 
-## 📊 GitHub Stats (Animated)
+Git • GitHub • Linux • Postman • Firebase
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Durvesh-dev&theme=tokyonight&hide_border=true" />
-</p>
+### Cybersecurity Tools
 
----
+Burp Suite • SQLMap • Google Dorking
 
-## 📈 Contribution Graph (Snake Animation 🐍)
+### Other
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+Blockchain • Smart Contracts • Security Fundamentals
 
 ---
 
-## 🧠 Interests
-
-* 🔐 Cybersecurity
-* ⚙️ System Design
-* 📱 Mobile Development
-* ⛓️ Blockchain
-* 🤖 Automation
-
----
-
-## 💼 Experience
+## Experience
 
 **Cyber Security Research Intern — Secure Cyber Future Ltd.**
 
-* Research on cyber threats & vulnerabilities
-* Built security tools
-* Worked with research engineers
+* Conducted research on cyber threats and attack vectors
+* Performed vulnerability assessments
+* Built small internal security tools
 
 ---
 
-## 🎯 Goals
+## Projects
 
-* 🚀 GSoC 2026
-* 🔥 Become Full Stack + Security Engineer
-* 🌍 Contribute to impactful OSS
+**Decentralized Payment System**
+
+* Blockchain-based transaction system with wallet integration
+* Focus on secure and decentralized payments
+
+**Certificate Generator Web App**
+
+* Canva-like editor to create and download certificates
+* Built using HTML, CSS, JavaScript, Node.js
+
+*(Add GitHub repository links here)*
 
 ---
 
-## 👀 Profile Views
+## GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Durvesh-dev&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&hide_border=true" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## Current Focus
 
-> I build systems that don’t just work… they scale 🚀
+* Backend Architecture
+* Security Engineering
+* Open Source Contributions
+
+---
+
+## Goals
+
+* Contribute to **GSoC 2026**
+* Build production-level scalable systems
+* Grow as a full-stack + security engineer
 
 ---
 
 <p align="center">
-  ⭐ From <b>Durvesh Bhadgaonkar</b>
+  <sub>Simple. Clean. Focused.</sub>
 </p>
