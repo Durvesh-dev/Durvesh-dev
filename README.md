@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Durvesh+Bhadgaonkar;Cybersecurity+Enthusiast+🔐;Full+Stack+Developer+🚀;Open+Source+Contributor+💻" />
 </h1>
 
-<h3 align="center">Building Secure & Scalable Systems</h3>
+<h3 align="center">🚀 Building Secure & Scalable Systems</h3>
 
 <p align="center">
   <a href="mailto:durveshbhadgaonkar19@gmail.com">
@@ -20,10 +20,10 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * 🎓 B.Tech IT Student (Mumbai)
-* 🔐 Focused on Cybersecurity & Backend Systems
-* ⚡ Building scalable web & mobile applications
+* 🔐 Cybersecurity Enthusiast
+* ⚡ Full Stack Developer
 * 🧠 Exploring Blockchain & Smart Contracts
-* 🚀 Active in Open Source
+* 🚀 Open Source Contributor
 
 ---
 
@@ -77,8 +77,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Durvesh-dev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Durvesh-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -86,7 +89,7 @@
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durvesh-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durvesh-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
