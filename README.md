@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Durvesh+Bhadgaonkar;Cybersecurity+Enthusiast+🔐;Full+Stack+Developer+🚀;Open+Source+Contributor+💻" />
 </h1>
 
-<h3 align="center">🚀 Building Secure & Scalable Systems</h3>
+<h3 align="center">Building Secure & Scalable Systems</h3>
 
 <p align="center">
   <a href="mailto:durveshbhadgaonkar19@gmail.com">
@@ -17,13 +17,13 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * 🎓 B.Tech IT Student (Mumbai)
 * 🔐 Focused on Cybersecurity & Backend Systems
 * ⚡ Building scalable web & mobile applications
 * 🧠 Exploring Blockchain & Smart Contracts
-* 🚀 Open Source Contributor (GSoC Aspirant)
+* 🚀 Active in Open Source
 
 ---
 
@@ -60,7 +60,11 @@
 
 ### 🔐 Cybersecurity Tools
 
-Burp Suite • SQLMap • Google Dorking
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLMap-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google_Dorking-grey?style=for-the-badge"/>
+</p>
 
 ### 🔗 Other
 
@@ -79,6 +83,14 @@ Burp Suite • SQLMap • Google Dorking
 
 ---
 
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durvesh-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🧠 Interests
 
 * 🔐 Cybersecurity & Ethical Hacking
@@ -86,14 +98,6 @@ Burp Suite • SQLMap • Google Dorking
 * 📱 Mobile App Development
 * ⛓️ Blockchain & Web3
 * 🤖 Automation & Problem Solving
-
----
-
-## 🎯 Goals
-
-* 🚀 Contribute to GSoC 2026
-* 🔥 Become a Full Stack + Security Engineer
-* 🌍 Build impactful and scalable systems
 
 ---
 
