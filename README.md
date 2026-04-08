@@ -1,8 +1,12 @@
-<h1 align="center">Hi, I'm Durvesh Bhadgaonkar 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Durvesh+Bhadgaonkar;Cybersecurity+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" />
+</h1>
 
-<p align="center">
-  Software Engineer • Cybersecurity • Open Source
-</p>
+<h3 align="center">Building Secure & Scalable Systems</h3>
+
+---
+
+## Connect with Me
 
 <p align="center">
   <a href="mailto:durveshbhadgaonkar19@gmail.com">Email</a> •
@@ -11,13 +15,15 @@
 
 ---
 
-## About
+## About Me
 
-I'm an Information Technology student based in Mumbai, focused on building secure and scalable systems.
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-* Interested in **Cybersecurity, Backend Development, and System Design**
-* Exploring **security engineering and distributed systems**
-* Actively contributing to **open source (GSoC track)**
+* 🎓 B.Tech IT Student (Mumbai)
+* 🔐 Cybersecurity Enthusiast
+* ⚡ Full Stack Developer
+* 🧠 Exploring Blockchain & Smart Contracts
+* 🚀 Open Source Contributor (GSoC Aspirant)
 
 ---
 
@@ -37,7 +43,7 @@ Git • GitHub • Linux • Postman • Firebase
 
 ### Cybersecurity Tools
 
-Burp Suite • SQLMap • Google Dorking
+Burp Suite • SQLMap • Google Dorking (Advanced Search Techniques)
 
 ### Other
 
@@ -45,56 +51,51 @@ Blockchain • Smart Contracts • Security Fundamentals
 
 ---
 
-## Experience
-
-**Cyber Security Research Intern — Secure Cyber Future Ltd.**
-
-* Conducted research on cyber threats and attack vectors
-* Performed vulnerability assessments
-* Built small internal security tools
-
----
-
-## Projects
-
-**Decentralized Payment System**
-
-* Blockchain-based transaction system with wallet integration
-* Focus on secure and decentralized payments
-
-**Certificate Generator Web App**
-
-* Canva-like editor to create and download certificates
-* Built using HTML, CSS, JavaScript, Node.js
-
-*(Add GitHub repository links here)*
-
----
-
 ## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Durvesh-dev&hide_border=true" />
 </p>
 
 ---
 
-## Current Focus
+## Interests
 
-* Backend Architecture
-* Security Engineering
-* Open Source Contributions
+* 🔐 Cybersecurity
+* ⚙️ System Design
+* 📱 Mobile Development
+* ⛓️ Blockchain
+* 🤖 Automation
+
+---
+
+## Experience
+
+**Cyber Security Research Intern — Secure Cyber Future Ltd.**
+
+* Research on cyber threats & vulnerabilities
+* Built security tools
+* Worked with research engineers
 
 ---
 
 ## Goals
 
-* Contribute to **GSoC 2026**
-* Build production-level scalable systems
-* Grow as a full-stack + security engineer
+* 🚀 GSoC 2026
+* 🔥 Become Full Stack + Security Engineer
+* 🌍 Contribute to impactful OSS
+
+---
+
+## Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Durvesh-dev&label=Profile%20views&color=blue&style=flat" />
+</p>
 
 ---
 
 <p align="center">
-  <sub>Simple. Clean. Focused.</sub>
+  ⭐ From <b>Durvesh Bhadgaonkar</b>
 </p>
