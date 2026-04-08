@@ -24,10 +24,10 @@
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * 🎓 B.Tech IT Student (Mumbai)
-* 🔐 Focused on Cybersecurity & Backend Systems
+* 🔐 Cybersecurity Enthusiast & Backend Focus
 * ⚡ Full Stack Developer
 * 🧠 Exploring Blockchain & Smart Contracts
-* 🚀 Active in Open Source
+* 🚀 Open Source Contributor
 
 ---
 
@@ -35,9 +35,9 @@
 
 **Cyber Security Research Intern — Secure Cyber Future Ltd.**
 
-* Conducted research on cyber threats & attack vectors
+* Conducted research on cyber threats & vulnerabilities
+* Built security tools and scripts
 * Performed vulnerability assessments
-* Built internal security testing tools
 * Collaborated with research engineers
 
 ---
@@ -78,6 +78,26 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durvesh-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Durvesh-dev/Durvesh-dev/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🧠 Interests
 
 * 🔐 Cybersecurity & Ethical Hacking
@@ -85,16 +105,6 @@
 * 📱 Mobile App Development
 * ⛓️ Blockchain & Web3
 * 🤖 Automation & Problem Solving
-
----
-
-## 📈 Contribution Graph
-
-<!-- ONLY KEEP THIS IF YOUR WORKFLOW IS RUNNING -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Durvesh-dev/Durvesh-dev/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
